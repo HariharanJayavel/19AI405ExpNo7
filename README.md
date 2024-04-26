@@ -213,8 +213,8 @@ if __name__ == "__main__":
 
 <h2>Input and Output</h2>
 
-<img width="850" alt="tic toc toe1" src="https://github.com/HariharanJayavel/19AI405ExpNo7/assets/144870546/1b95f42b-d618-4d9e-8179-ac4ab547f216">
 <img width="850" alt="tic toc toe 2" src="https://github.com/HariharanJayavel/19AI405ExpNo7/assets/144870546/1fd6a991-2e4a-4536-9191-2dace43aa04e">
+<img width="850" alt="tic toc toe1" src="https://github.com/HariharanJayavel/19AI405ExpNo7/assets/144870546/1b95f42b-d618-4d9e-8179-ac4ab547f216">
 
 ## RESULT
 The program code is successfully runned and executed.
